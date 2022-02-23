@@ -1,3 +1,6 @@
+#Powershell Sensivitive Data Finder
+#Kadir YAPAR
+
 $Machines = @('192.168.2.76', '192.168.2.5')
 $Disks = @('C', 'D')
 $TodayDate = Get-Date -Format "dd-MM-yyyy"
